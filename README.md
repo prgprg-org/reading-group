@@ -1,4 +1,4 @@
-# PRG*PRG Reading Group
+# PRG • PRG Reading Group
 
 - **When and where?** Please check back soon. We'll figure this out by the end of September.
 - **Email updates** Sign up [here to receive email updates about meetings](https://forms.gle/ZBNJS5QdCa7CvAxV7).
