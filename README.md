@@ -2,7 +2,8 @@
 
 - **When and where?** We meet on Wednesday 10:00, every three weeks, alternating betweeb MFF and FIT
 - **Email updates** Sign up [here to receive email updates about meetings](https://forms.gle/ZBNJS5QdCa7CvAxV7).
-
+- **What paper?** Post ideas and vote [using Github issues](https://github.com/prgprg-org/reading-group/issues)!
+ 
 ## Upcoming Meetings
 
 ### Wednesday, 9 October, 10:00 (FIT)
@@ -19,6 +20,6 @@
 ## Paper Archives and Ideas
 
 * In previous years, the group was organised using a [huge Google Doc](https://docs.google.com/document/d/1sz3G_62GRTERmxXcnczZqGLB1vT_W5dAUewKAMwpKT0/edit?usp=sharing) (remarkably, nobody accidentally deleted it). Check it out for papers we've read in the past.
-* Please share your paper ideas (and volunteer to present a paper) [using the Issue #1 in this repository](https://github.com/prgprg-org/reading-group/issues/1).
+* Please share your paper ideas (and volunteer to present a paper) [using Github Issues in this repository](https://github.com/prgprg-org/reading-group/issues).
 
 
