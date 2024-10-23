@@ -20,7 +20,7 @@
 
 - **What:** FP<sup>2</sup>: Fully in-Place Functional Programming
 - **Paper:** https://webspace.science.uu.nl/~swier004/publications/2023-icfp.pdf
-- **Where:** Room TBA, Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
+- **Where:** Room S510 (5th floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
 - **Comment:** The paper describes a subset of a functional langauge where programs can be executed without
   any memory allocation. Read section 1, which provides a nice overview of the language. We will certainly want
   to understand the calculus and well-formedness rules in section 2.1 and 2.2. It may be also interesting to look
