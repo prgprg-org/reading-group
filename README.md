@@ -1,6 +1,6 @@
 # PRG • PRG Reading Group
 
-- **When and where?** We meet on Wednesday 10:00, every three weeks, alternating betweeb MFF and FIT
+- **When and where?** We meet on Wednesday 10:00, (roughly) every three weeks, alternating betweeb MFF and FIT
 - **Email updates** Sign up [here to receive email updates about meetings](https://forms.gle/ZBNJS5QdCa7CvAxV7).
 - **What paper?** Post ideas and vote [using Github issues](https://github.com/prgprg-org/reading-group/issues)!
  
