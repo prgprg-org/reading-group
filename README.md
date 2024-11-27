@@ -39,7 +39,7 @@
 
 - **What:** Copy-and-patch compilation: a fast compilation algorithm for high-level languages and bytecode
 - **Paper:** [https://webspace.science.uu.nl/~swier004/publications/2023-icfp.pdf](https://arxiv.org/pdf/2011.13127)
-- **Where:** TBA, Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
 - **Comment:** A paper about an extremely fast compilation technique that produces good quality code (and is also
   used in Python 3.13!) The core ideas are described in sections 2, 3 and 4, so make sure to read those. We
   will likely also want to look at the evaluation results in section 5 and 6 (but you can skim the text there).
