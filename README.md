@@ -4,7 +4,7 @@
 - **Email updates** Sign up [here to receive email updates about meetings](https://forms.gle/ZBNJS5QdCa7CvAxV7).
 - **What paper?** Post ideas and vote [using Github issues](https://github.com/prgprg-org/reading-group/issues)!
 
-## Upcoming Meetings
+## :alarm_clock: Next Meeting
 
 ### Wednesday, 18 December, 10:00 (MFF)
 
@@ -15,7 +15,30 @@
   used in Python 3.13!) The core ideas are described in sections 2, 3 and 4, so make sure to read those. We
   will likely also want to look at the evaluation results in section 5 and 6 (but you can skim the text there).
 
-## Past Meetings
+## :calendar: Future Meeting
+
+### Wednesday, 8 January 2025, 10:00 (FIT)
+
+- **What:** Syntax and Semantics of Dependent Types
+- **Paper:** https://www.cs.uoregon.edu/research/summerschool/summer14/rwh_notes/ssdt.pdf
+- **Where:** Room T9:364b, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Thanks to Ondřej Kubánek for volunteering!
+- **Comment:** This is a dense paper, but we can use it as a starting point for taking the next step
+  towards making sense of dependent types! Ondřej volunteered to start with a 30 minute presentation,
+  so this will be more of an introduction to the topic. It is still a good idea to look at sections 1 and
+  2 of the paper to know what to expect!
+
+### Wednesday, 29 January 2025, 10:00 (MFF)
+
+- **What:** Reclaiming the Unexplored in Hybrid Visual Programming
+- **Paper:** https://michael.homer.nz/Publications/Onward2024/ReclaimingUnexplored-Homer2024.pdf
+- **Where:** Room S6 (2nd floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
+- **Who:** Thanks to Joel Jakubovic for volunteering!
+- **Comment:** The paper argues that we should do more work to explore visual representation of programs and visual programming.
+   This is a short and readable paper and so I suggest looking at most of it in advance (sections 1-4). You can also
+   experiment with the web-based demos available at: https://djel.org
+
+## :books: Past Meetings
 
 ### Wednesday, 27 November, 10:00 (FIT)
 
