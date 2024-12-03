@@ -72,11 +72,7 @@
   read some of the formalism in section 4 or try to look at the evaluation in section 5. You do not
   need to read sections 4 and 5 in detail, but try to skim them to see what to find there!
 
-
-### We will be back in January 2025
-Volunteer to present the next paper  [using Github Issues in this repository](https://github.com/prgprg-org/reading-group/issues)!
-
-## Paper Archives and Ideas
+## :scroll: Paper Archives and Ideas
 
 * In previous years, the group was organised using a [huge Google Doc](https://docs.google.com/document/d/1sz3G_62GRTERmxXcnczZqGLB1vT_W5dAUewKAMwpKT0/edit?usp=sharing) (remarkably, nobody accidentally deleted it). Check it out for papers we've read in the past.
 * Please share your paper ideas (and volunteer to present a paper) [using Github Issues in this repository](https://github.com/prgprg-org/reading-group/issues).
