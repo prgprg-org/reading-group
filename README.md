@@ -6,27 +6,7 @@
 
 ## :alarm_clock: Next Meeting
 
-### Wednesday, 18 December, 10:00 (MFF)
-
-- **What:** Copy-and-patch compilation: a fast compilation algorithm for high-level languages and bytecode
-- **Paper:** [https://webspace.science.uu.nl/~swier004/publications/2023-icfp.pdf](https://arxiv.org/pdf/2011.13127)
-- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
-- **Comment:** A paper about an extremely fast compilation technique that produces good quality code (and is also
-  used in Python 3.13!) The core ideas are described in sections 2, 3 and 4, so make sure to read those. We
-  will likely also want to look at the evaluation results in section 5 and 6 (but you can skim the text there).
-
-## :calendar: Future Meeting
-
-### Wednesday, 8 January 2025, 10:00 (FIT)
-
-- **What:** Syntax and Semantics of Dependent Types
-- **Paper:** https://www.cs.uoregon.edu/research/summerschool/summer14/rwh_notes/ssdt.pdf
-- **Where:** Room T9:364b, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
-- **Who:** Thanks to Ondřej Kubánek for volunteering!
-- **Comment:** This is a dense paper, but we can use it as a starting point for taking the next step
-  towards making sense of dependent types! Ondřej volunteered to start with a 30 minute presentation,
-  so this will be more of an introduction to the topic. It is still a good idea to look at sections 1 and
-  2 of the paper to know what to expect!
+<!-- ## :calendar: Future Meeting -->
 
 ### Wednesday, 29 January 2025, 10:00 (MFF)
 
@@ -39,6 +19,26 @@
    experiment with the web-based demos available at: https://djel.org
 
 ## :books: Past Meetings
+
+### Wednesday, 8 January 2025, 10:00 (FIT)
+
+- **What:** Syntax and Semantics of Dependent Types
+- **Paper:** https://www.cs.uoregon.edu/research/summerschool/summer14/rwh_notes/ssdt.pdf
+- **Where:** Room T9:364b, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Thanks to Ondřej Kubánek for volunteering!
+- **Comment:** This is a dense paper, but we can use it as a starting point for taking the next step
+  towards making sense of dependent types! Ondřej volunteered to start with a 30 minute presentation,
+  so this will be more of an introduction to the topic. It is still a good idea to look at sections 1 and
+  2 of the paper to know what to expect!
+
+### Wednesday, 18 December, 10:00 (MFF)
+
+- **What:** Copy-and-patch compilation: a fast compilation algorithm for high-level languages and bytecode
+- **Paper:** [https://webspace.science.uu.nl/~swier004/publications/2023-icfp.pdf](https://arxiv.org/pdf/2011.13127)
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
+- **Comment:** A paper about an extremely fast compilation technique that produces good quality code (and is also
+  used in Python 3.13!) The core ideas are described in sections 2, 3 and 4, so make sure to read those. We
+  will likely also want to look at the evaluation results in section 5 and 6 (but you can skim the text there).
 
 ### Wednesday, 27 November, 10:00 (FIT)
 
