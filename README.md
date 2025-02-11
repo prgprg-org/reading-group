@@ -6,8 +6,6 @@
 
 ## :alarm_clock: Next Meeting
 
-<!-- ## :calendar: Future Meeting -->
-
 ### Wednesday, 19 February 2025, 10:00 (FIT)
 
 - **What:** Retrofitting effect handlers onto OCaml
@@ -17,6 +15,15 @@
 - **Comment:** The article describes an actual implementation of effects on a mainstream language, which did not support them before. The retroffiting approach is interesting in a PL design perspective: how do we evolve PL languages while maintaining backward and forward compatibility? 
    Read at least sections 1-3 for the context and possibly the evaluation part (section 6). I will start by an introduction to algebraic effects.
 
+## :calendar: Future Meeting
+
+### Wednesday, 12 March 2025, 10:00 (MFF)
+
+- **What:** Stream Types
+- **Paper:** https://arxiv.org/pdf/2104.00250](https://dl.acm.org/doi/10.1145/3656434
+- **Where:** Room S510 (5th floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://
+- **Who:** Thanks to Vít Šefl for volunteering!
+- **Comment:** The paper presents a static type system for tracking information about streams of data in stream-based programming. It can capture "both complex temporal patterns and deterministic parallel processing". Streams are common data types in various reactive systems, user interfaces and signal processing, so it is interesting to see how to exactly capture what is going on! We will probably mostly focus on sections 1-3, so try to read those. It may be interesting to also talk about examples in section 5.2.
 
 ## :books: Past Meetings
 
