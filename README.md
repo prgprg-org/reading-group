@@ -10,9 +10,9 @@
 
 - **What:** Retrofitting effect handlers onto OCaml
 - **Paper:** https://arxiv.org/pdf/2104.00250
-- **Where:** Room T9:364b, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Where:** Room T9:301, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Thanks to Mickael Laurent for volunteering!
-- **Comment:** The article describes an actual implementation of effects on a mainstream language, which did not support them before. The retroffiting approach is interesting in a PL design perspective: how do we evolve PL languages while maintaining backward and forward compatibility? 
+- **Comment:** The article describes an actual implementation of effects on a mainstream language, which did not support them before. The retrofitting approach is interesting in a PL design perspective: how do we evolve PL languages while maintaining backward and forward compatibility? 
    Read at least sections 1-3 for the context and possibly the evaluation part (section 6). I will start by an introduction to algebraic effects.
 
 ## :calendar: Future Meeting
