@@ -14,8 +14,8 @@
 - **Paper:** https://arxiv.org/pdf/2306.06391
 - **Where:** Room T9:301, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Thanks to Filip Říha for volunteering!
-- **Comment:** The paper shows how to use a not so explored family of types,  set-theoretical types, in an actual language, Elixir, from the Erlang's family of languages. 
-
+- **Comment:** This paper presents a new gradual type system for Elixir based on set-theoretic types. Elixir is a functional programming language based on the BEAM virtual machine (the VM of Erlang) used to build concurrent and fault-tolerant systems. A type system for this otherwise dynamic language aims to bring all of the static safety of types, not unlike what TypeScript is for JavaScript. However, unlike TypeScript, it is sound and does not introduce runtime checks in the code. Instead, it leverages type guards and pattern matches written by the programmer, a typical pattern in Elixir code. The paper is very practically oriented, showing why certain features were chosen for the type system and their usage, while it reserves very little space for formalization. I suggest reading section 2, an overview of the type system, and also section 3, which highlights some of the additions that the Elixir type system brings to the set-theoretical type theory (section 3.3 can be skipped, as it delves exhaustively into typing the Elixir records and maps).
+  
 ## :books: Past Meetings
 
 ### Wednesday, 12 March 2025, 10:00 (MFF)
