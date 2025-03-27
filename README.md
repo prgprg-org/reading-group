@@ -8,7 +8,7 @@
 
 <!-- ## :calendar: Future Meeting -->
 
-### Wednesday, 3 April 2025, 10:00 (FIT) 
+### Wednesday, 2 April 2025, 10:00 (FIT) 
 
 - **What:** The Design Principles of the Elixir Type System
 - **Paper:** https://arxiv.org/pdf/2306.06391
