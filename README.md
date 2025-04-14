@@ -8,6 +8,16 @@
 
 <!-- ## :calendar: Future Meeting -->
 
+### Wednesday, 23 April 2025, 10:00 (MFF) 
+
+- **What:** MyWebstrates: Webstrates as Local-first Software
+- **Paper:** https://telecom-paris.hal.science/hal-04700748v1/file/klokmose24-uist.pdf
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/
+- **Who:** Tomas Petricek
+- **Comment:** Webstrates is a "computational medium" that makes it possible to create programs in a way that makes it easy to share them, modify them and collaborate around them. The paper presents an implementation of WebStrates that does not depend on a single server, but uses distributed peer-to-peer architecture based on the "local-first software" principles and is implemented based on the CRDT technology. This is a relatively light-weight paper that can be read as a whole. It is an interesting example of applying human-computer interaction research methods to a programming systems problem. I'd recommend skim-reading the whole paper - and reading parts that catch your attention in detail.
+  
+## :books: Past Meetings
+
 ### Wednesday, 2 April 2025, 10:00 (FIT) 
 
 - **What:** The Design Principles of the Elixir Type System
@@ -15,8 +25,6 @@
 - **Where:** Room T9:301, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Thanks to Filip Říha for volunteering!
 - **Comment:** This paper presents a new gradual type system for Elixir based on set-theoretic types. Elixir is a functional programming language based on the BEAM virtual machine (the VM of Erlang) used to build concurrent and fault-tolerant systems. A type system for this otherwise dynamic language aims to bring all of the static safety of types, not unlike what TypeScript is for JavaScript. However, unlike TypeScript, it is sound and does not introduce runtime checks in the code. Instead, it leverages type guards and pattern matches written by the programmer, a typical pattern in Elixir code. The paper is very practically oriented, showing why certain features were chosen for the type system and their usage, while it reserves very little space for formalization. I suggest reading section 2, an overview of the type system, and also section 3, which highlights some of the additions that the Elixir type system brings to the set-theoretical type theory (section 3.3 can be skipped, as it delves exhaustively into typing the Elixir records and maps).
-  
-## :books: Past Meetings
 
 ### Wednesday, 12 March 2025, 10:00 (MFF)
 
