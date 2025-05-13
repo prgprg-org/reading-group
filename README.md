@@ -4,9 +4,11 @@
 - **Email updates** Sign up [here to receive email updates about meetings](https://forms.gle/ZBNJS5QdCa7CvAxV7).
 - **What paper?** Post ideas and vote [using Github issues](https://github.com/prgprg-org/reading-group/issues)!
 
-## :alarm_clock: Next Meeting
+<!-- ## :alarm_clock: Next Meeting -->
 
 <!-- ## :calendar: Future Meeting -->
+
+## :books: Past Meetings
 
 ### Wednesday, 23 April 2025, 10:00 (MFF) 
 
@@ -16,8 +18,6 @@
 - **Who:** Tomas Petricek
 - **Comment:** Webstrates is a "computational medium" that makes it possible to create programs in a way that makes it easy to share them, modify them and collaborate around them. The paper presents an implementation of WebStrates that does not depend on a single server, but uses distributed peer-to-peer architecture based on the "local-first software" principles and is implemented based on the CRDT technology. This is a relatively light-weight paper that can be read as a whole. It is an interesting example of applying human-computer interaction research methods to a programming systems problem. I'd recommend skim-reading the whole paper - and reading parts that catch your attention in detail.
   
-## :books: Past Meetings
-
 ### Wednesday, 2 April 2025, 10:00 (FIT) 
 
 - **What:** The Design Principles of the Elixir Type System
