@@ -6,6 +6,17 @@
 
 <!-- ## :alarm_clock: Next Meeting -->
 
+
+### Wednesday, 21 May 2025, 10:00 (FIT) 
+
+- **What:** Partial Evaluation, Whole-Program Compilation. Or, We have a Compiler at Home
+- **Paper:** https://arxiv.org/pdf/2411.10559
+- **Where:** Room T9:301, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Pierre Donat-Bouillud
+- **Comment:** The article shows a quick and effective way to get a compiler from an interpreter. This is an application of the 1st Futamura projection. However, this approach does not require a heavily specialized interpreter and can reuse a nearly unmodified interpreter body from an already existing one. They show 2 case studies for
+  Javascript and Lua interpreters compiled to WASM. I recommend to skim the paper, at least looking at section 3  and one of the case studies. 
+
+
 <!-- ## :calendar: Future Meeting -->
 
 ## :books: Past Meetings
