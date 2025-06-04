@@ -6,7 +6,7 @@
 
 <!-- ## :alarm_clock: Next Meeting -->
 
-### Wednesday, 11 June 2025, 10:00 (FIT) 
+### Wednesday, 11 June 2025, 10:00 (MFF) 
 
 - **What:** Deegen: A JIT-Capable VM Generator for Dynamic Languages
 - **Paper:** [https://arxiv.org/pdf/2411.10559](https://arxiv.org/pdf/2411.11469)
