@@ -6,6 +6,21 @@
 
 <!-- ## :alarm_clock: Next Meeting -->
 
+### Wednesday, 10 September 2025, 10:00 (MFF) 
+
+- **What:** Covariance and Controvariance: a fresh look at an old issue, Castagna
+- **Paper:** [https://www.irif.fr/~gc/papers/covcon-again.pdf](https://www.irif.fr/~gc/papers/covcon-again.pdf)
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Who:** Mickael Laurent
+- **Comment:** The goal is to have a tutorial about set-theoretical types. The article is a good introduction to set-theoretic types, which focuses on implementation while most other works only give a mathematical definition.
+In particular, we may focus on section 4: Type algorithms for the language designer, which introduces the algorithm to decide subtyping using an interesting data structure (Binary Decision Diagram) that is used to represent logic formulas.
+A related article about set-theoretic types: [https://www.irif.fr/~gc/papers/set-theoretic-types-2022.pdf](https://www.irif.fr/~gc/papers/set-theoretic-types-2022.pdf). 
+
+
+<!-- ## :calendar: Future Meeting -->
+
+## :books: Past Meetings
+
 ### Wednesday, 11 June 2025, 10:00 (MFF) 
 
 - **What:** Deegen: A JIT-Capable VM Generator for Dynamic Languages
@@ -13,11 +28,6 @@
 - **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
 - **Who:** Filip Křikava 
 - **Comment:** Building a high-performance JIT-capable VM for a dynamic language has traditionally required a tremendous amount of time, money, and expertise. The article presents Deegen, a meta-compiler that allows users to generate a high-performance JIT-capable VM for their own language at an engineering cost similar to writing a simple interpreter. Deegen takes in the execution semantics of the bytecodes implemented as C++ functions, and automatically generates a two-tier VM execution engine with a state-of-the-art interpreter, a state-of-the-art baseline JIT, and the tier-switching logic that connects them into a self-adaptive system.  They implement LuaJIT Remake (LJR), a standard-compliant Lua 5.1 VM, using Deegen. Across 44 benchmarks, LJR's interpreter is on average 179% faster than the official PUC Lua interpreter, and 31% faster than LuaJIT's interpreter. 
-
-
-<!-- ## :calendar: Future Meeting -->
-
-## :books: Past Meetings
 
 
 ### Wednesday, 21 May 2025, 10:00 (FIT) 
