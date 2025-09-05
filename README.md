@@ -10,7 +10,7 @@
 
 - **What:** Covariance and Controvariance: a fresh look at an old issue, Castagna
 - **Paper:** [https://www.irif.fr/~gc/papers/covcon-again.pdf](https://www.irif.fr/~gc/papers/covcon-again.pdf)
-- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Where:** S8 (1st floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
 - **Who:** Mickael Laurent
 - **Comment:** The goal is to have a tutorial about set-theoretical types. The article is a good introduction to set-theoretic types, which focuses on implementation while most other works only give a mathematical definition.
 In particular, we may focus on section 4: Type algorithms for the language designer, which introduces the algorithm to decide subtyping using an interesting data structure (Binary Decision Diagram) that is used to represent logic formulas.
