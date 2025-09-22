@@ -1,10 +1,23 @@
 # PRG • PRG Reading Group
 
-- **When and where?** We meet on Wednesday 10:00, (roughly) every three weeks, alternating betweeb MFF and FIT
+- **When and where?** We meet on Wednesday 10:00, (roughly) every three weeks, alternating between MFF and FIT
 - **Email updates** Sign up [here to receive email updates about meetings](https://forms.gle/ZBNJS5QdCa7CvAxV7).
 - **What paper?** Post ideas and vote [using Github issues](https://github.com/prgprg-org/reading-group/issues)!
 
 <!-- ## :alarm_clock: Next Meeting -->
+
+### Wednesday, 24 September 2025, 10:00 (FIT) 
+
+- **What:** Introduction to the reading group, then _No Silver Bullet -- Essence and Accident in Software Engineering -- by Frederick P. Brooks, then a surprise article...
+- **Paper:** [https://www.cs.unc.edu/techreports/86-020.pdf](https://www.cs.unc.edu/techreports/86-020.pdf)
+- **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Pierre Donat-Bouillud, Filip Křikava
+- **Comment:** 
+
+
+<!-- ## :calendar: Future Meeting -->
+
+## :books: Past Meetings
 
 ### Wednesday, 10 September 2025, 10:00 (MFF) 
 
@@ -16,10 +29,6 @@
 In particular, we may focus on section 4: Type algorithms for the language designer, which introduces the algorithm to decide subtyping using an interesting data structure (Binary Decision Diagram) that is used to represent logic formulas.
 A related article about set-theoretic types: [https://www.irif.fr/~gc/papers/set-theoretic-types-2022.pdf](https://www.irif.fr/~gc/papers/set-theoretic-types-2022.pdf). 
 
-
-<!-- ## :calendar: Future Meeting -->
-
-## :books: Past Meetings
 
 ### Wednesday, 11 June 2025, 10:00 (MFF) 
 
