@@ -6,18 +6,18 @@
 
 <!-- ## :alarm_clock: Next Meeting -->
 
-### Wednesday, 24 September 2025, 10:00 (FIT) 
-
-- **What:** Introduction to the reading group, then _No Silver Bullet -- Essence and Accident in Software Engineering -- by Frederick P. Brooks, then a surprise article...
-- **Paper:** [https://www.cs.unc.edu/techreports/86-020.pdf](https://www.cs.unc.edu/techreports/86-020.pdf)
-- **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
-- **Who:** Pierre Donat-Bouillud, Filip Křikava
-- **Comment:** 
-
 
 <!-- ## :calendar: Future Meeting -->
 
 ## :books: Past Meetings
+
+### Wednesday, 24 September 2025, 10:00 (FIT) 
+
+- **What:** Introduction to the reading group, then _No Silver Bullet -- Essence and Accident in Software Engineering --_ by Frederick P. Brooks, then a surprise article...
+- **Paper:** [https://www.cs.unc.edu/techreports/86-020.pdf](https://www.cs.unc.edu/techreports/86-020.pdf)
+- **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Pierre Donat-Bouillud, Filip Křikava
+- **Comment:** 
 
 ### Wednesday, 10 September 2025, 10:00 (MFF) 
 
