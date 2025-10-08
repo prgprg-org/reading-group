@@ -16,7 +16,6 @@
     It makes it possible to annotate algebraic data types (unions) to restrict what cases it can have,
     which is useful for example when writing a multi-pass compiler. The paper describes the feature and the
     theory behind it.
-
     For the meeting, focus on  sections 1, 2, 5 and 6 - this provides a nice overview of the idea and the design space.
     Section 3 gets theoretical. Have a look and we can try to get through some of the formalism at the meeting!
   
