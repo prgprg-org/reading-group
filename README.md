@@ -4,7 +4,22 @@
 - **Email updates** Sign up [here to receive email updates about meetings](https://forms.gle/ZBNJS5QdCa7CvAxV7).
 - **What paper?** Post ideas and vote [using Github issues](https://github.com/prgprg-org/reading-group/issues)!
 
-<!-- ## :alarm_clock: Next Meeting -->
+## :alarm_clock: Next Meeting
+
+### Wednesday, 15 October 2025, 10:00 (MFF) 
+
+- **What:** Restrictable Variants: A Simple and Practical Alternative to Extensible Variants
+- **Paper:** [https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.17/LIPIcs.ECOOP.2023.17.pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.17/LIPIcs.ECOOP.2023.17.pdf)
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Who:** Tomas Petricek
+- **Comment:** Restrictable variants is an interesting language feature in the Flix programming language.
+    It makes it possible to annotate algebraic data types (unions) to restrict what cases it can have,
+    which is useful for example when writing a multi-pass compiler. The paper describes the feature and the
+    theory behind it.
+
+    For the meeting, focus on  sections 1, 2, 5 and 6 - this provides a nice overview of the idea and the design space.
+    Section 3 gets theoretical. Have a look and we can try to get through some of the formalism at the meeting!
+  
 
 
 <!-- ## :calendar: Future Meeting -->
