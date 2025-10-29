@@ -6,6 +6,20 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 5 November 2025, 10:00 (FIT) 
+
+- **What:** Practical compilation of fexprs using partial evaluation by Nathan Braswell, Sharjeel Khan, Santosh Pande
+- **Paper:** [https://arxiv.org/pdf/2303.12254](https://arxiv.org/pdf/2303.12254)
+- **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Michal Žáček
+- **Comment:** F-Expressions have historically been eschewed in favour of plain macros due to their inefficiencies and difficulties they pose for optimization. Since then, they have been forgotten and are missing from most all current languages. Nonetheless, they remain a fascinating subject due to their composability and the possibility of returning first-classness to our metaprogramming if their performance concerns are addressed. The article aims at showing that fexprs are a practical replacement of macros, and formulates a small purely functional fexpr based Lisp, Kraken, with an online partial evaluation and compilation framework that supports first-class, partially-static-data environments and can completely optimize away fexprs that are used and written in the style of macros. Focus on sections 1 and 2 for an overview. Read the intro of section 4 to get a taste of partial evaluation for fexprs.
+  
+
+
+<!-- ## :calendar: Future Meeting -->
+
+## :books: Past Meetings
+
 ### Wednesday, 15 October 2025, 10:00 (MFF) 
 
 - **What:** Restrictable Variants: A Simple and Practical Alternative to Extensible Variants
@@ -18,12 +32,6 @@
     theory behind it.
     For the meeting, focus on  sections 1, 2, 5 and 6 - this provides a nice overview of the idea and the design space.
     Section 3 gets theoretical. Have a look and we can try to get through some of the formalism at the meeting!
-  
-
-
-<!-- ## :calendar: Future Meeting -->
-
-## :books: Past Meetings
 
 ### Wednesday, 24 September 2025, 10:00 (FIT) 
 
