@@ -6,6 +6,21 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 26 November 2025, 10:00 (MFF) 
+
+- **What:** Sculpin: Direct-Manipulation Transformation of JSON by Horowitz, Hayatpur, Xia and Heer
+- **Paper:** [https://dl.acm.org/doi/10.1145/3746059.3747651](https://dl.acm.org/doi/10.1145/3746059.3747651) 
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Who:** Joel Jakubovic
+- **Comment:** The paper presents a direct-manipulation environment for processing JSON data and building simple applications that have JSON as the back-end.
+    The idea is that non-programmers can use the tool to complete tasks with JSON that would normally require programming. The paper is a nice implementation
+    of the more general idea. The main parts to read are the sections describing Sculpin, i.e., Sections 3 and 4. It is useful to look at the related work
+    (Section 2), fun to look at further examples (Section 5) and you can get an idea about HCI evaluation methods in Section 6.
+
+<!-- ## :calendar: Future Meeting -->
+
+## :books: Past Meetings
+
 ### Wednesday, 5 November 2025, 10:00 (FIT) 
 
 - **What:** Practical compilation of fexprs using partial evaluation by Nathan Braswell, Sharjeel Khan, Santosh Pande
@@ -14,12 +29,6 @@
 - **Who:** Michal Žáček
 - **Comment:** F-Expressions have historically been eschewed in favour of plain macros due to their inefficiencies and difficulties they pose for optimization. Since then, they have been forgotten and are missing from most all current languages. Nonetheless, they remain a fascinating subject due to their composability and the possibility of returning first-classness to our metaprogramming if their performance concerns are addressed. The article aims at showing that fexprs are a practical replacement of macros, and formulates a small purely functional fexpr based Lisp, Kraken, with an online partial evaluation and compilation framework that supports first-class, partially-static-data environments and can completely optimize away fexprs that are used and written in the style of macros. Focus on sections 1 and 2 for an overview. Read the intro of section 4 to get a taste of partial evaluation for fexprs.
   
-
-
-<!-- ## :calendar: Future Meeting -->
-
-## :books: Past Meetings
-
 ### Wednesday, 15 October 2025, 10:00 (MFF) 
 
 - **What:** Restrictable Variants: A Simple and Practical Alternative to Extensible Variants
