@@ -6,6 +6,18 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 17 December 2025, 10:00 (FIT) 
+
+- **What:** egg: Fast and extensible equality saturation by  Max Willsey, Chandrakana Nandi, Yisu Remy Wang, Oliver Flatt, Zachary Tatlock, Pavel Panchekha
+- **Paper:** [https://dl.acm.org/doi/pdf/10.1145/3434304](https://dl.acm.org/doi/pdf/10.1145/3434304)
+- **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Volodymyr Plita
+- **Comment:** The paper introduces practical improvements to e-graphs—such as the rebuilding algorithm and e-class analyses—that make equality saturation efficient and extensible. The work made e-graphs popular again, and connects well-established theoretical ideas with a clean, usable implementation, supported by an [open-source library](https://egraphs-good.github.io/) that has been applied in multiple PL and optimization contexts for compilers. In the end I will also briefly mention [slotted e-graphs](https://steuwer.info/files/publications/2025/PLDI-Slotted-E-Graphs.pdf) that extend the original e-graph approach by adding first-class support for bound variables, allowing α-equivalent terms to be represented and rewritten uniformly. This makes equality saturation applicable and more efficient for languages and optimizations that involve binding, something traditional e-graphs and egg handle only awkwardly or inefficiently. The main parts to read  are the introduction (section 1), then background of e-graphs (section 2) and sections 3 and 4 with the two core innovations.
+
+<!-- ## :calendar: Future Meeting -->
+
+## :books: Past Meetings
+
 ### Wednesday, 26 November 2025, 10:00 (MFF) 
 
 - **What:** Sculpin: Direct-Manipulation Transformation of JSON by Horowitz, Hayatpur, Xia and Heer
@@ -16,10 +28,6 @@
     The idea is that non-programmers can use the tool to complete tasks with JSON that would normally require programming. The paper is a nice implementation
     of the more general idea. The main parts to read are the sections describing Sculpin, i.e., Sections 3 and 4. It is useful to look at the related work
     (Section 2), fun to look at further examples (Section 5) and you can get an idea about HCI evaluation methods in Section 6.
-
-<!-- ## :calendar: Future Meeting -->
-
-## :books: Past Meetings
 
 ### Wednesday, 5 November 2025, 10:00 (FIT) 
 
