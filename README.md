@@ -10,7 +10,7 @@
 
 - **What:** Capturing Types, by Aleksander Boruch-Gruszecki, Martin Odersky, Edward Lee, Ondřej Lhoták, and Jonathan Brachthäuser
 - **Paper:** [https://dl.acm.org/doi/pdf/10.1145/3618003](https://dl.acm.org/doi/pdf/10.1145/3618003)
-- **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Where:** Room TH:A-1435, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Filip Říha
 - **Comment:** Capabilities are an alternative for denoting effects like mutability, exceptions or resource management. They are an alternative to the other popular methods, like checked exceptions or monads. The greatest benefit is it that capabilities can be expressed with plain arguments and handle polymorphism "for free".
 The paper describes a capture calculus, a type system that allows reasoning about scoped capabilities, even in presence of capturing closures and objects.
