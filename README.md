@@ -6,6 +6,20 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 21 January 2026, 10:00 (FIT) 
+
+- **What:** Capturing Types, by Aleksander Boruch-Gruszecki, Martin Odersky, Edward Lee, Ondřej Lhoták, and Jonathan Brachthäuser
+- **Paper:** [https://dl.acm.org/doi/pdf/10.1145/3618003](https://dl.acm.org/doi/pdf/10.1145/3618003)
+- **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Filip Říha
+- **Comment:** Capabilities are an alternative for denoting effects like mutability, exceptions or resource management. They are an alternative to the other popular methods, like checked exceptions or monads. The greatest benefit is it that capabilities can be expressed with plain arguments and handle polymorphism "for free".
+The paper describes a capture calculus, a type system that allows reasoning about scoped capabilities, even in presence of capturing closures and objects.
+For the meeting focus on sections 1 and 2, describing the overall idea of capturing types, and section 5 providing some more motivating examples. Sections 3 is the definition of the calculus, we can go through it at the meeting, but it would be good to be familiar with its syntax. A related talk about the current state of capabilities: [Where Are We With Scala's Capabilities?, Martin Odersky](https://www.youtube.com/watch?v=AyGnDm_TwsY).
+
+<!-- ## :calendar: Future Meeting -->
+
+## :books: Past Meetings
+
 ### Wednesday, 17 December 2025, 10:00 (FIT) 
 
 - **What:** egg: Fast and extensible equality saturation by  Max Willsey, Chandrakana Nandi, Yisu Remy Wang, Oliver Flatt, Zachary Tatlock, Pavel Panchekha
@@ -13,10 +27,6 @@
 - **Where:** Room TH:A-951, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Volodymyr Plita
 - **Comment:** The paper introduces practical improvements to e-graphs—such as the rebuilding algorithm and e-class analyses—that make equality saturation efficient and extensible. The work made e-graphs popular again, and connects well-established theoretical ideas with a clean, usable implementation, supported by an [open-source library](https://egraphs-good.github.io/) that has been applied in multiple PL and optimization contexts for compilers. In the end I will also briefly mention [slotted e-graphs](https://steuwer.info/files/publications/2025/PLDI-Slotted-E-Graphs.pdf) that extend the original e-graph approach by adding first-class support for bound variables, allowing α-equivalent terms to be represented and rewritten uniformly. This makes equality saturation applicable and more efficient for languages and optimizations that involve binding, something traditional e-graphs and egg handle only awkwardly or inefficiently. The main parts to read  are the introduction (section 1), then background of e-graphs (section 2) and sections 3 and 4 with the two core innovations.
-
-<!-- ## :calendar: Future Meeting -->
-
-## :books: Past Meetings
 
 ### Wednesday, 26 November 2025, 10:00 (MFF) 
 
