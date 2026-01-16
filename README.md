@@ -25,7 +25,7 @@ For the meeting focus on sections 1 and 2, describing the overall idea of captur
 - **Where:** Room S4 (2nd floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
 - **Who:** TBA
 - **Comment:** TBA
-- 
+  
 ## :books: Past Meetings
 
 ### Wednesday, 17 December 2025, 10:00 (FIT) 
