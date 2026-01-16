@@ -16,8 +16,16 @@
 The paper describes a capture calculus, a type system that allows reasoning about scoped capabilities, even in presence of capturing closures and objects.
 For the meeting focus on sections 1 and 2, describing the overall idea of capturing types, and section 5 providing some more motivating examples. Sections 3 is the definition of the calculus, we can go through it at the meeting, but it would be good to be familiar with its syntax. A related talk about the current state of capabilities: [Where Are We With Scala's Capabilities?, Martin Odersky](https://www.youtube.com/watch?v=AyGnDm_TwsY).
 
-<!-- ## :calendar: Future Meeting -->
+## :calendar: Future Meeting
 
+### Wednesday, 4 February 2026, 10:00 (MFF) 
+
+- **What:** TBA
+- **Paper:** TBA
+- **Where:** Room S4 (2nd floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
+- **Who:** TBA
+- **Comment:** TBA
+- 
 ## :books: Past Meetings
 
 ### Wednesday, 17 December 2025, 10:00 (FIT) 
