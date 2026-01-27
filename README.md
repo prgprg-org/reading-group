@@ -6,6 +6,21 @@
 
 ## :alarm_clock: Next Meeting
 
+<!-- ## :calendar: Future Meeting -->
+
+### Wednesday, 4 February 2026, 10:00 (MFF) 
+
+- **What:** Code Style Sheets: CSS for Code by Sam Cohen and Ravi Chugh
+- **Paper:** [https://arxiv.org/pdf/2502.09386](https://arxiv.org/pdf/2502.09386)
+- **Where:** Room S6 (2nd floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
+- **Who:** Tomas Petricek
+- **Comment:** The paper presents code style sheets - a system for nicely formatting source code that is inspired by CSS. The main technical challenge
+    discussed in the paper is how to layout blocks of code that span over multiple lines. The paper is interesting as an example of research that is focused
+    more on design than on theory or implementation, although it also comes with a small formalization of the core idea. It is also quite readable! Try
+    to read sections 1-4 before coming to the meeting (and maybe have a quick look at illustrations in section 5 and 7).
+  
+## :books: Past Meetings
+
 ### Wednesday, 21 January 2026, 10:00 (FIT) 
 
 - **What:** Capturing Types, by Aleksander Boruch-Gruszecki, Martin Odersky, Edward Lee, Ondřej Lhoták, and Jonathan Brachthäuser
@@ -15,18 +30,6 @@
 - **Comment:** Capabilities are an alternative for denoting effects like mutability, exceptions or resource management. They are an alternative to the other popular methods, like checked exceptions or monads. The greatest benefit is it that capabilities can be expressed with plain arguments and handle polymorphism "for free".
 The paper describes a capture calculus, a type system that allows reasoning about scoped capabilities, even in presence of capturing closures and objects.
 For the meeting focus on sections 1 and 2, describing the overall idea of capturing types, and section 5 providing some more motivating examples. Sections 3 is the definition of the calculus, we can go through it at the meeting, but it would be good to be familiar with its syntax. A related talk about the current state of capabilities: [Where Are We With Scala's Capabilities?, Martin Odersky](https://www.youtube.com/watch?v=AyGnDm_TwsY).
-
-## :calendar: Future Meeting
-
-### Wednesday, 4 February 2026, 10:00 (MFF) 
-
-- **What:** TBA
-- **Paper:** TBA
-- **Where:** Room S6 (2nd floor), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/cs/prakticke-informace/plan-budovy))
-- **Who:** TBA
-- **Comment:** TBA
-  
-## :books: Past Meetings
 
 ### Wednesday, 17 December 2025, 10:00 (FIT) 
 
