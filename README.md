@@ -8,6 +8,18 @@
 
 <!-- ## :calendar: Future Meeting -->
 
+
+### Wednesday, 18 Feburary 2026, 10:00 (FIT) 
+
+- **What:** Python 3 types in the wild: a tale of two type systems, by Ingkarat Rak-amnouykit, Daniel McCrevan, Ana Milanova, Martin Hirzel, and Julian Dolby
+- **Paper:** [https://dl.acm.org/doi/10.1145/3426422.3426981](https://dl.acm.org/doi/10.1145/3426422.3426981)
+- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Pierre Donat-Bouillud
+- **Comment:** This paper explores how developers use these type annotations, the type system semantics provided by type checking and inference tools, and the performance of these tools. It is interesting to see how a static type system can be retrofitted to a dynamic language without type annotations, how one type syntax can lead to 2 different type checking and inference rules (MyPy and PyType), and which type errors they catch. Useful when you want to add a type system to another dynamic language, R! The article is fairly easy to read; you can focus on the fist 2 sections or read the whole article.The article is from 2020 and the Python ecosystem, and
+in particular, type annotations, has grown a lot since: [The evolution of type annotations in python: an empirical study](https://dl.acm.org/doi/abs/10.1145/3540250.3549114) has a large scale study of the evolution on more than 1 million commits from nearly 10 000 projects. Another famous article on Python and types is [An Empirical Study of Type-Related Defects in Python Projects](https://ieeexplore.ieee.org/abstract/document/9436020) which compares issues from GitHub and type check results to assess how efficient type checking is a finding bugs, and finds that 15% of the defects could have been prevented by mypy.
+
+## :books: Past Meetings
+
 ### Wednesday, 4 February 2026, 10:00 (MFF) 
 
 - **What:** Code Style Sheets: CSS for Code by Sam Cohen and Ravi Chugh
@@ -18,8 +30,6 @@
     discussed in the paper is how to layout blocks of code that span over multiple lines. The paper is interesting as an example of research that is focused
     more on design than on theory or implementation, although it also comes with a small formalization of the core idea. It is also quite readable! Try
     to read sections 1-4 before coming to the meeting (and maybe have a quick look at illustrations in section 5 and 7).
-  
-## :books: Past Meetings
 
 ### Wednesday, 21 January 2026, 10:00 (FIT) 
 
