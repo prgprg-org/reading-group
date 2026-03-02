@@ -9,6 +9,17 @@
 <!-- ## :calendar: Future Meeting -->
 
 
+### Wednesday, 04 March 2026, 10:00 (FIT) 
+
+- **What:** The Simple Essence of Algebraic Subtyping, Principal Type Inference with Subtyping Made Easy (Functional Pearl), by Lionel Parreaux
+- **Paper:** [https://infoscience.epfl.ch/server/api/core/bitstreams/afe084e0-0050-4542-99c7-c499d2fe1620/content](https://infoscience.epfl.ch/server/api/core/bitstreams/afe084e0-0050-4542-99c7-c499d2fe1620/content)
+- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Oliver Tušla
+- **Comment:** Traditionally, it was believed that global type inference in the presence of subtyping yields complex, unwieldy types. The MLsub type inference extends traditional Hindley-Milner type inference with subtyping while preserving compact principal types. It alleviates these concerns and produces compact types that are understandable to programmers. However, MLsub is a very complex system that even experienced implementors struggle to grasp. In this paper, Parreaux proposes Simple-sub, a distillation of MLsub to a much simpler algorithm that generates the same results. For the meeting, read section 1 for the introduction on the topic, and section 2.1 for background on MLsub. We will focus on sections 3 and 4, discussing the Simple-sub design and implementation.
+
+
+## :books: Past Meetings
+
 ### Wednesday, 18 Feburary 2026, 10:00 (FIT) 
 
 - **What:** Python 3 types in the wild: a tale of two type systems, by Ingkarat Rak-amnouykit, Daniel McCrevan, Ana Milanova, Martin Hirzel, and Julian Dolby
@@ -18,7 +29,6 @@
 - **Comment:** This paper explores how developers use these type annotations, the type system semantics provided by type checking and inference tools, and the performance of these tools. It is interesting to see how a static type system can be retrofitted to a dynamic language without type annotations, how one type syntax can lead to 2 different type checking and inference rules (MyPy and PyType), and which type errors they catch. Useful when you want to add a type system to another dynamic language, R! The article is fairly easy to read; you can focus on the fist 2 sections or read the whole article.The article is from 2020 and the Python ecosystem, and
 in particular, type annotations, has grown a lot since: [The evolution of type annotations in python: an empirical study](https://dl.acm.org/doi/abs/10.1145/3540250.3549114) has a large scale study of the evolution on more than 1 million commits from nearly 10 000 projects. Another famous article on Python and types is [An Empirical Study of Type-Related Defects in Python Projects](https://ieeexplore.ieee.org/abstract/document/9436020) which compares issues from GitHub and type check results to assess how efficient type checking is a finding bugs, and finds that 15% of the defects could have been prevented by mypy.
 
-## :books: Past Meetings
 
 ### Wednesday, 4 February 2026, 10:00 (MFF) 
 
