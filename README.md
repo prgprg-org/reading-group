@@ -20,7 +20,7 @@
 
 ## :books: Past Meetings
 
-### Wednesday, 18 Feburary 2026, 10:00 (FIT) 
+### Wednesday, 18 February 2026, 10:00 (FIT) 
 
 - **What:** Python 3 types in the wild: a tale of two type systems, by Ingkarat Rak-amnouykit, Daniel McCrevan, Ana Milanova, Martin Hirzel, and Julian Dolby
 - **Paper:** [https://dl.acm.org/doi/10.1145/3426422.3426981](https://dl.acm.org/doi/10.1145/3426422.3426981)
