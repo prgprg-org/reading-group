@@ -9,6 +9,16 @@
 <!-- ## :calendar: Future Meeting -->
 
 
+### Wednesday, 18 March 2026, 10:00 (MFF) 
+
+- **What:** Proof Assistants for Teaching: a Survey, by Frédéric Tran Minh, Laure Gonnord & Julien Narboux
+- **Paper:** [https://arxiv.org/pdf/2505.13472](https://arxiv.org/pdf/2505.13472)
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Who:** Sidney Congard, Jan Liam Verter & Tomas Petricek
+- **Comment:** We are interested in making sense of the different kinds of automatic theorem provers and dependently typed languages. This paper is a survey focused on the use of theorem provers in education, which is one interesting angle! It can be also interesting if we wanted to use some theorem provers in teaching ourselves. This is a relatively accessible paper and is not too long (16 pages, with lots of pictures and not many typing rules!), so we encourage attendees to read the entire paper.
+
+## :books: Past Meetings
+
 ### Wednesday, 04 March 2026, 10:00 (FIT) 
 
 - **What:** The Simple Essence of Algebraic Subtyping, Principal Type Inference with Subtyping Made Easy (Functional Pearl), by Lionel Parreaux
@@ -16,9 +26,6 @@
 - **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Oliver Tušla
 - **Comment:** Traditionally, it was believed that global type inference in the presence of subtyping yields complex, unwieldy types. The MLsub type inference extends traditional Hindley-Milner type inference with subtyping while preserving compact principal types. It alleviates these concerns and produces compact types that are understandable to programmers. However, MLsub is a very complex system that even experienced implementors struggle to grasp. In this paper, Parreaux proposes Simple-sub, a distillation of MLsub to a much simpler algorithm that generates the same results. For the meeting, read section 1 for the introduction on the topic, and section 2.1 for background on MLsub. We will focus on sections 3 and 4, discussing the Simple-sub design and implementation.
-
-
-## :books: Past Meetings
 
 ### Wednesday, 18 February 2026, 10:00 (FIT) 
 
