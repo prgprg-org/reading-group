@@ -8,6 +8,15 @@
 
 <!-- ## :calendar: Future Meeting -->
 
+### Wednesday, 01 April 2026, 10:00 (FIT) 
+
+- **What:** Float Self-Tagging by Olivier Melançon, Manuel Serrano, Marc Feeley
+- **Paper:** [https://arxiv.org/abs/2411.16544](https://arxiv.org/abs/2411.16544)
+- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Matěj Kocourek
+- **Comment:**  An interesting aspect of self-tagging is that it exploits the fact that floating-point numbers are not uniformly distributed in real programs, so some bit patterns can be repurposed to store type information directly inside the number. This allows both the value and its type to fit into a single machine word without heap allocation, which can significantly improve performance in dynamic languages. Compared to NaN-boxing and pointer tagging, self-tagging combines their advantages while reducing their drawbacks. Experiments show that this approach can eliminate heap allocation for almost all floating-point numbers with negligible impact on overall program performance.
+
+## :books: Past Meetings
 
 ### Wednesday, 18 March 2026, 10:00 (MFF) 
 
@@ -16,8 +25,6 @@
 - **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
 - **Who:** Sidney Congard, Jan Liam Verter & Tomas Petricek
 - **Comment:** We are interested in making sense of the different kinds of automatic theorem provers and dependently typed languages. This paper is a survey focused on the use of theorem provers in education, which is one interesting angle! It can be also interesting if we wanted to use some theorem provers in teaching ourselves. This is a relatively accessible paper and is not too long (16 pages, with lots of pictures and not many typing rules!), so we encourage attendees to read the entire paper.
-
-## :books: Past Meetings
 
 ### Wednesday, 04 March 2026, 10:00 (FIT) 
 
