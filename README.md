@@ -8,6 +8,21 @@
 
 <!-- ## :calendar: Future Meeting -->
 
+### Wednesday, 15 April 2026, 10:00 (MFF) 
+
+- **What:** Interaction Substrates: Combining Power and Simplicity in Interactive Systems, Wendy E. Mackay, Michel Beaudouin-Lafon
+- **Paper:** [https://dl.acm.org/doi/full/10.1145/3706598.3714006](https://dl.acm.org/doi/full/10.1145/3706598.3714006)
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Who:** Tomas Petricek
+- **Comment:** The paper presents an alternative to the typical interfaces of modern software systems - which are either
+  simple but limited, or powerful but complex. The idea is to structure systems in terms of substrates that users can
+  interact with and manipulate. Let's try to read sections 1-4, which provide an overview of the idea. Sections 5 and 6
+  are interesting as they perform rigorous evaluation in terms of human-computer interaction, which may be interesting to
+  discuss too if we have time. (The paper specifically does not look at programming environments, but this is the reason
+  why I find it interesting for our reading group!)
+
+## :books: Past Meetings
+
 ### Wednesday, 01 April 2026, 10:00 (FIT) 
 
 - **What:** Float Self-Tagging by Olivier Melançon, Manuel Serrano, Marc Feeley
@@ -15,8 +30,6 @@
 - **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Matěj Kocourek
 - **Comment:**  An interesting aspect of self-tagging is that it exploits the fact that floating-point numbers are not uniformly distributed in real programs, so some bit patterns can be repurposed to store type information directly inside the number. This allows both the value and its type to fit into a single machine word without heap allocation, which can significantly improve performance in dynamic languages. Compared to NaN-boxing and pointer tagging, self-tagging combines their advantages while reducing their drawbacks. Experiments show that this approach can eliminate heap allocation for almost all floating-point numbers with negligible impact on overall program performance.
-
-## :books: Past Meetings
 
 ### Wednesday, 18 March 2026, 10:00 (MFF) 
 
