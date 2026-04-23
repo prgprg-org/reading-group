@@ -8,6 +8,17 @@
 
 <!-- ## :calendar: Future Meeting -->
 
+### Wednesday, 29 April 2026, 10:00 (FIT) 
+
+- **What:** AST vs. Bytecode: Interpreters in the Age of Meta-Compilation by Octave Larose, Sophie Kaleba, Humphrey Burchell and Stefan Marr 2023
+- **Paper:** [https://dl.acm.org/doi/pdf/10.1145/3622808](https://dl.acm.org/doi/pdf/10.1145/3622808)
+- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Vojtěch Březina 
+- **Comment:** Thanks to partial evaluation and meta-tracing, it became practical to build language implementations that reach state-of-the-art peak performance by implementing only an interpreter.  Folklore tells us that bytecode interpreters are superior to abstract-syntax-tree (AST) interpreters both in terms of memory use and run-time performance. While metacompilers don't seem too widespread yet, it is interesting to look at how using them changes   what a performant implementation looks like. As always with interpreter papers, there are some ways we can try to relate the findings to R. The paper also gives some basic insights into general programming language design. For the rest of the group, they will probably not be that interesting, but since I am still quite new to this field, I hope to start a discussion on some of them. I would recommend everyone else read at least sections 2 and 5, since sections 3 and 4 focus mainly on the used metodology.
+
+## :books: Past Meetings
+
+
 ### Wednesday, 15 April 2026, 10:00 (MFF) 
 
 - **What:** Interaction Substrates: Combining Power and Simplicity in Interactive Systems, Wendy E. Mackay, Michel Beaudouin-Lafon
@@ -20,8 +31,6 @@
   are interesting as they perform rigorous evaluation in terms of human-computer interaction, which may be interesting to
   discuss too if we have time. (The paper specifically does not look at programming environments, but this is the reason
   why I find it interesting for our reading group!)
-
-## :books: Past Meetings
 
 ### Wednesday, 01 April 2026, 10:00 (FIT) 
 
