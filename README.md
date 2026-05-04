@@ -6,7 +6,25 @@
 
 ## :alarm_clock: Next Meeting
 
-<!-- ## :calendar: Future Meeting -->
+### Wednesday, 13 May 2026, 10:00 (MFF) 
+
+- **What:** TBA
+- **Paper:** TBA
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Who:** TBA
+- **Comment:** TBA
+
+## :calendar: Future Meeting
+
+### Wednesday, 27 May 2026, 10:00 (FIT) 
+
+- **What:** The implicit calculus: a new foundation for generic programming by Bruno C.d.S. Oliveira, Tom Schrijvers, Wontae Choi, Wonchan Lee, Kwangkeun Yi
+- **Paper:** [https://dl.acm.org/doi/10.1145/2254064.2254070](https://dl.acm.org/doi/10.1145/2254064.2254070)
+- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Tianyao Zhou 
+- **Comment:** This paper formally captures the Scala's implicit in a core calculus. Novelty of this calculus is partial resolution and higher-order implicit rules. The implicit calculus provides a formal model of implicits, which can be used by language designers to study and inform implementations of similar mechanisms in their own languages. Reading section 1 and 2 is enough to understand the basic ideas. Section 3-5 are more detailed. Section 3 is the formal definition of this calculus. Section 4 is about implementing the calculus in a System F language. Section 5 says the calculus can be used to implement generic programming in a source language. We recommend reading sections 1 and 2 and having a look at section 3.
+
+## :books: Past Meetings
 
 ### Wednesday, 29 April 2026, 10:00 (FIT) 
 
@@ -15,9 +33,6 @@
 - **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Vojtěch Březina 
 - **Comment:** Thanks to partial evaluation and meta-tracing, it became practical to build language implementations that reach state-of-the-art peak performance by implementing only an interpreter.  Folklore tells us that bytecode interpreters are superior to abstract-syntax-tree (AST) interpreters both in terms of memory use and run-time performance. While metacompilers don't seem too widespread yet, it is interesting to look at how using them changes   what a performant implementation looks like. As always with interpreter papers, there are some ways we can try to relate the findings to R. The paper also gives some basic insights into general programming language design. For the rest of the group, they will probably not be that interesting, but since I am still quite new to this field, I hope to start a discussion on some of them. I would recommend everyone else read at least sections 2 and 5, since sections 3 and 4 focus mainly on the used metodology.
-
-## :books: Past Meetings
-
 
 ### Wednesday, 15 April 2026, 10:00 (MFF) 
 
