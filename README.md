@@ -8,11 +8,7 @@
 
 ### Wednesday, 13 May 2026, 10:00 (MFF) 
 
-- **What:** TBA
-- **Paper:** TBA
-- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
-- **Who:** TBA
-- **Comment:** TBA
+- Cancelled because of sport's day at both MFF and CVUT.
 
 ## :calendar: Future Meeting
 
