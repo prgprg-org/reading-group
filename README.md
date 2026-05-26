@@ -6,12 +6,6 @@
 
 ## :alarm_clock: Next Meeting
 
-### Wednesday, 13 May 2026, 10:00 (MFF) 
-
-- Cancelled because of sport's day at both MFF and CVUT.
-
-## :calendar: Future Meeting
-
 ### Wednesday, 27 May 2026, 10:00 (FIT) 
 
 - **What:** The implicit calculus: a new foundation for generic programming by Bruno C.d.S. Oliveira, Tom Schrijvers, Wontae Choi, Wonchan Lee, Kwangkeun Yi
