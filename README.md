@@ -10,7 +10,7 @@
 
 - **What:** The implicit calculus: a new foundation for generic programming by Bruno C.d.S. Oliveira, Tom Schrijvers, Wontae Choi, Wonchan Lee, Kwangkeun Yi
 - **Paper:** [https://dl.acm.org/doi/10.1145/2254064.2254070](https://dl.acm.org/doi/10.1145/2254064.2254070)
-- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Where:** Room TH-A-1435, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Tianyao Zhou 
 - **Comment:** This paper formally captures the Scala's implicit in a core calculus. Novelty of this calculus is partial resolution and higher-order implicit rules. The implicit calculus provides a formal model of implicits, which can be used by language designers to study and inform implementations of similar mechanisms in their own languages. Reading section 1 and 2 is enough to understand the basic ideas. Section 3-5 are more detailed. Section 3 is the formal definition of this calculus. Section 4 is about implementing the calculus in a System F language. Section 5 says the calculus can be used to implement generic programming in a source language. We recommend reading sections 1 and 2 and having a look at section 3.
 
