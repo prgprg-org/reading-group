@@ -6,6 +6,20 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 10 June 2026, 10:00 (MFF) 
+
+**What:** Chains of Meaning in the STEPS System by Ian Piumarta, VPRI Internal Memo 2009  
+[PDF](https://tinlizzie.org/VPRIPapers/m2009011_chns_mng.pdf)  
+**Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))  
+**Who:** Joel Jakubovic  
+**Comment:** "[STEPS Towards New Computing](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)" was a US NSF-funded project 2007-2012 to reduce the bulk of the personal computing tech stack to under 20,000 lines of code (in as many domain-specific languages as would achieve this). This memo illustrates the idea of a STEPS "Chain of Meaning" (CoM) using a complete example that converts a textual representation of abstract syntax trees into executable native code for the Intel 386. Simplicity and clarity at each stage in the chain are the primary goals of this example CoM.  
+**Why are you interested in it or why should it be a good idea?**
+It's a concrete example of the OMeta meta-DSL for rapidly prototyping ad-hoc domain-specific languages. The design of OMeta in the Appendix is an interesting case of compressing all the main DSL tasks into a single notation (freely mixing the parsing of concrete syntax, the parsing of abstract *structures*, and the compilation/execution thereof). I wonder what relation it has to parser combinators. I also wonder how to generalise the idea to more general notations that aren't necessarily textual, and why OMeta's successor Ohm decided to split the "semantic actions" from the "parsing".
+
+Note that because I found the memo's presentation choices a bit annoying, I wrote notes in a [blog post](https://programmingmadecomplicated.wordpress.com/2025/11/24/notes-on-chains-of-meaning-in-steps/) that I wish I could have read first.
+
+## :books: Past Meetings
+
 ### Wednesday, 27 May 2026, 10:00 (FIT) 
 
 - **What:** The implicit calculus: a new foundation for generic programming by Bruno C.d.S. Oliveira, Tom Schrijvers, Wontae Choi, Wonchan Lee, Kwangkeun Yi
@@ -13,8 +27,6 @@
 - **Where:** Room TH-A-1435, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Tianyao Zhou 
 - **Comment:** This paper formally captures the Scala's implicit in a core calculus. Novelty of this calculus is partial resolution and higher-order implicit rules. The implicit calculus provides a formal model of implicits, which can be used by language designers to study and inform implementations of similar mechanisms in their own languages. Reading section 1 and 2 is enough to understand the basic ideas. Section 3-5 are more detailed. Section 3 is the formal definition of this calculus. Section 4 is about implementing the calculus in a System F language. Section 5 says the calculus can be used to implement generic programming in a source language. We recommend reading sections 1 and 2 and having a look at section 3.
-
-## :books: Past Meetings
 
 ### Wednesday, 29 April 2026, 10:00 (FIT) 
 
