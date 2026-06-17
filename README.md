@@ -12,7 +12,7 @@
 - **Paper:** [https://dl.acm.org/doi/abs/10.1145/3798245](https://dl.acm.org/doi/abs/10.1145/3798245)
 - **Where:** Room TH-A-1435, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Pierre Donat-Bouillud
-- **Comment:** JIT compilers might have software bugs, and fuzzing, especially differential fuzzing, has often been used to find those bugs (mostly in JS engines).  This article shows how differential testing can be used to find performance bugs in a JIT compiler, and not only compilation performance bugs but also runtime performance bugs. This is demonstrated on 2 Java JIT compilers, Oracle Hotspot and Graal.
+- **Comment:** JIT compilers might have software bugs, and fuzzing, especially differential fuzzing, has often been used to find those bugs (mostly in JS engines).  This article shows how differential testing can be used to find performance bugs in a JIT compiler, and not only compilation performance bugs but also runtime performance bugs. This is demonstrated on 2 Java JIT compilers, Oracle Hotspot and Graal. Sections 3 to 5 describe an empirical study of performance bugs in the 2 java compilers and on 2 JS JIT compilers. Section 6 has the actual differential performance testing algorithm.
 
 
 ## :books: Past Meetings
