@@ -6,6 +6,18 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 24 June 2026, 10:00 (FIT) 
+
+- **What:** Understanding and Finding JIT Compiler Performance Bugs by Zijian Yi, Cheng Ding, August Shi and Milos Gligoric
+- **Paper:** [https://dl.acm.org/doi/abs/10.1145/3798245](https://dl.acm.org/doi/abs/10.1145/3798245)
+- **Where:** Room TH-A-1435, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Pierre Donat-Bouillud
+- **Comment:** JIT compilers might have software bugs, and fuzzing, especially differential fuzzing, has often been used to find those bugs (mostly in JS engines).  This article shows how differential testing can be used to find performance bugs in a JIT compiler, and not only compilation performance bugs but also runtime performance bugs. This is demonstrated on 2 Java JIT compilers, Oracle Hotspot and Graal.
+
+
+## :books: Past Meetings
+
+
 ### Wednesday, 10 June 2026, 10:00 (MFF) 
 
 **What:** Chains of Meaning in the STEPS System by Ian Piumarta, VPRI Internal Memo 2009  
@@ -17,8 +29,6 @@
 It's a concrete example of the OMeta meta-DSL for rapidly prototyping ad-hoc domain-specific languages. The design of OMeta in the Appendix is an interesting case of compressing all the main DSL tasks into a single notation (freely mixing the parsing of concrete syntax, the parsing of abstract *structures*, and the compilation/execution thereof). I wonder what relation it has to parser combinators. I also wonder how to generalise the idea to more general notations that aren't necessarily textual, and why OMeta's successor Ohm decided to split the "semantic actions" from the "parsing".
 
 Note that because I found the memo's presentation choices a bit annoying, I wrote notes in a [blog post](https://programmingmadecomplicated.wordpress.com/2025/11/24/notes-on-chains-of-meaning-in-steps/) that I wish I could have read first.
-
-## :books: Past Meetings
 
 ### Wednesday, 27 May 2026, 10:00 (FIT) 
 
