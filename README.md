@@ -10,11 +10,11 @@
 
 Two articles this time!
 
-- **What:** Understanding and Finding JIT Compiler Performance Bugs by Zijian Yi, Cheng Ding, August Shi and Milos Gligoric
-- **Paper:** [https://arxiv.org/pdf/2603.14133](https://arxiv.org/pdf/2603.14133)
+- **What:** Introduction to the reading group, then _On understanding data abstraction, revisited, by William R Cook_, then _Understanding and Finding JIT Compiler Performance Bugs by Zijian Yi, Cheng Ding, August Shi and Milos Gligoric_
+- **Papers:** [https://dl.acm.org/doi/abs/10.1145/1640089.1640133](https://dl.acm.org/doi/abs/10.1145/1640089.1640133) and [https://arxiv.org/pdf/2603.14133](https://arxiv.org/pdf/2603.14133)
 - **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
-- **Who:** Tomas Petricek
-- **Comment:** Are computer skills or even writing skills still useful for LLM-driven programming? The authors find that both writing skill and CS achievement are significant predictors of vibe-coding performance, and that CS achievement remains a significant predictor after controlling for domain-general cognitive skills. This is an article from the human-computer interaction community and it shows how to setup an experiment that studies interaction between coding agents and students.
+- **Who:** Pierre Donat-Bouillud, Filip Křikava, Tomas Petricek
+- **Comment:** The first article looks at the differences between abstract data types and objects. The second one wonders whether computer skills or even writing skills are still useful for LLM-driven programming. The authors find that both writing skill and CS achievement are significant predictors of vibe-coding performance, and that CS achievement remains a significant predictor after controlling for domain-general cognitive skills. This is an article from the human-computer interaction community and it shows how to setup an experiment that studies interaction between coding agents and students.
 
 ## :books: Past Meetings
 
