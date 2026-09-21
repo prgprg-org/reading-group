@@ -6,6 +6,18 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 23 September 2026, 10:00 (FIT)
+
+Two articles this time!
+
+- **What:** Understanding and Finding JIT Compiler Performance Bugs by Zijian Yi, Cheng Ding, August Shi and Milos Gligoric
+- **Paper:** [https://arxiv.org/pdf/2603.14133](https://arxiv.org/pdf/2603.14133)
+- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Tomas Petricek
+- **Comment:** Are computer skills or even writing skills still useful for LLM-driven programming? The authors find that both writing skill and CS achievement are significant predictors of vibe-coding performance, and that CS achievement remains a significant predictor after controlling for domain-general cognitive skills. This is an article from the human-computer interaction community and it shows how to setup an experiment that studies interaction between coding agents and students.
+
+## :books: Past Meetings
+
 ### Wednesday, 24 June 2026, 10:00 (FIT) 
 
 - **What:** Understanding and Finding JIT Compiler Performance Bugs by Zijian Yi, Cheng Ding, August Shi and Milos Gligoric
@@ -13,9 +25,6 @@
 - **Where:** Room TH-A:942, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Pierre Donat-Bouillud
 - **Comment:** JIT compilers might have software bugs, and fuzzing, especially differential fuzzing, has often been used to find those bugs (mostly in JS engines).  This article shows how differential testing can be used to find performance bugs in a JIT compiler, and not only compilation performance bugs but also runtime performance bugs. This is demonstrated on 2 Java JIT compilers, Oracle Hotspot and Graal. Sections 3 to 5 describe an empirical study of performance bugs in the 2 java compilers and on 2 JS JIT compilers. Section 6 has the actual differential performance testing algorithm.
-
-
-## :books: Past Meetings
 
 
 ### Wednesday, 10 June 2026, 10:00 (MFF) 
