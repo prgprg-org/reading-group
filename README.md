@@ -10,7 +10,8 @@
 
 Two articles this time!
 
-- **What:** Introduction to the reading group, then _On understanding data abstraction, revisited, by William R Cook_, then _Understanding and Finding JIT Compiler Performance Bugs by Zijian Yi, Cheng Ding, August Shi and Milos Gligoric_
+- **What:** Introduction to the reading group, then _On understanding data abstraction, revisited, by William R Cook_, then _Computer Science Achievement and Writing Skills
+Predict Vibe Coding Proficiency by Sverrir Thorgeirsson, Theo B. Weidmann and Zhendong Su_
 - **Papers:** [https://dl.acm.org/doi/abs/10.1145/1640089.1640133](https://dl.acm.org/doi/abs/10.1145/1640089.1640133) and [https://arxiv.org/pdf/2603.14133](https://arxiv.org/pdf/2603.14133)
 - **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Pierre Donat-Bouillud, Filip Křikava, Tomas Petricek
