@@ -30,12 +30,12 @@ Predict Vibe Coding Proficiency by Sverrir Thorgeirsson, Theo B. Weidmann and Zh
 
 ### Wednesday, 10 June 2026, 10:00 (MFF) 
 
-**What:** Chains of Meaning in the STEPS System by Ian Piumarta, VPRI Internal Memo 2009  
+- **What:** Chains of Meaning in the STEPS System by Ian Piumarta, VPRI Internal Memo 2009  
 [PDF](https://tinlizzie.org/VPRIPapers/m2009011_chns_mng.pdf)  
-**Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))  
-**Who:** Joel Jakubovic  
-**Comment:** "[STEPS Towards New Computing](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)" was a US NSF-funded project 2007-2012 to reduce the bulk of the personal computing tech stack to under 20,000 lines of code (in as many domain-specific languages as would achieve this). This memo illustrates the idea of a STEPS "Chain of Meaning" (CoM) using a complete example that converts a textual representation of abstract syntax trees into executable native code for the Intel 386. Simplicity and clarity at each stage in the chain are the primary goals of this example CoM.  
-**Why are you interested in it or why should it be a good idea?**
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))  
+- **Who:** Joel Jakubovic  
+- **Comment:** "[STEPS Towards New Computing](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)" was a US NSF-funded project 2007-2012 to reduce the bulk of the personal computing tech stack to under 20,000 lines of code (in as many domain-specific languages as would achieve this). This memo illustrates the idea of a STEPS "Chain of Meaning" (CoM) using a complete example that converts a textual representation of abstract syntax trees into executable native code for the Intel 386. Simplicity and clarity at each stage in the chain are the primary goals of this example CoM.  
+- **Why are you interested in it or why should it be a good idea?**
 It's a concrete example of the OMeta meta-DSL for rapidly prototyping ad-hoc domain-specific languages. The design of OMeta in the Appendix is an interesting case of compressing all the main DSL tasks into a single notation (freely mixing the parsing of concrete syntax, the parsing of abstract *structures*, and the compilation/execution thereof). I wonder what relation it has to parser combinators. I also wonder how to generalise the idea to more general notations that aren't necessarily textual, and why OMeta's successor Ohm decided to split the "semantic actions" from the "parsing".
 
 Note that because I found the memo's presentation choices a bit annoying, I wrote notes in a [blog post](https://programmingmadecomplicated.wordpress.com/2025/11/24/notes-on-chains-of-meaning-in-steps/) that I wish I could have read first.
