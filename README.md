@@ -6,6 +6,16 @@
 
 ## :alarm_clock: Next Meeting
 
+### Wednesday, 21 October 2026, 10:00 (MFF)
+
+- **What:** Interactive Data Analysis with Lively Typed Tables by Alexander Bandukwala and Cyrus Omar  
+- **Paper:** [https://doi.org/10.1145/3839501](https://doi.org/10.1145/3839501)
+- **Where:** S204 (corridor in front of), Malostranské nám. 25 (see a [map](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/mala-strana) and a [building plan](https://cs.mff.cuni.cz/))
+- **Who:** Oliver Tušla
+- **Comment:** This paper introduces HazelLab, an extension of the live gradually typed functional programming environment Hazel. It reimagines working with tabular data compared to typical data science workflows: tables are sequences of labeled tuples, with best-effort typing of schema-changing operations (pivots, unstacks, one-hot encodings), live typing (feeding runtime-observed types back into the static checker), and rich probes (editable table views of live values). Read Sections 1–2 for the motivation and tutorial, and Sections 3.3–3.4 for live typing and rich probes, the paper's core ideas; Sections 3.1–3.2 (type-system details) and Section 4 (B2T2 benchmark and 7-participant user study) can be skimmed. Section 5 (related work) and the appendices (references, formal details) can be skipped. Interactive programming systems aid in understanding our programs and data, and this paper explores how to reimagine working with tabular data compared to typical workflows found in data science.
+
+## :books: Past Meetings
+
 ### Wednesday, 23 September 2026, 10:00 (FIT)
 
 Two articles this time!
@@ -17,7 +27,6 @@ Predict Vibe Coding Proficiency by Sverrir Thorgeirsson, Theo B. Weidmann and Zh
 - **Who:** Pierre Donat-Bouillud, Filip Křikava, Tomas Petricek
 - **Comment:** The first article looks at the differences between abstract data types and objects. The second one wonders whether computer skills or even writing skills are still useful for LLM-driven programming. The authors find that both writing skill and CS achievement are significant predictors of vibe-coding performance, and that CS achievement remains a significant predictor after controlling for domain-general cognitive skills. This is an article from the human-computer interaction community and it shows how to setup an experiment that studies interaction between coding agents and students.
 
-## :books: Past Meetings
 
 ### Wednesday, 24 June 2026, 10:00 (FIT) 
 
