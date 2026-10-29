@@ -6,6 +6,14 @@
 
 ## :alarm_clock: Next Meeting
 
+- **What:** Metaobject Protocols for Julia by Marcelo Santos and António Menezes Leitão
+- **Paper:** [https://doi.org/10.4230/OASIcs.SLATE.2022.13](https://doi.org/10.4230/OASIcs.SLATE.2022.13)
+- **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
+- **Who:** Michal Zacek
+- **Comment:** This paper proposes a metaobject protocol (MOP) for Julia, adding a CLOS-style object system implemented entirely with Julia's own metaprogramming (macros) and its JIT's run-time type specialization, claiming *zero runtime overhead*. Julia is interesting here as the host language: it deliberately lacks a rich object system (no inheritance from concrete types, composition over inheritance), yet its multiple dynamic dispatch and specialization-based compilation let the authors layer classic MOP features on top without paying for them at run time. Read Section 1 for the motivation and Julia background, and Section 3 for the core solution. Skim Section 2 if you're not familiar with the CLOS MOP (the classic "Art of the Metaobject Protocol" lineage). The article shows how much of a language can be rebuilt *from within*, treating language semantics as a user-extensible program.
+
+## :books: Past Meetings
+
 ### Wednesday, 21 October 2026, 10:00 (FIT)
 
 - **What:** Interactive Data Analysis with Lively Typed Tables by Alexander Bandukwala and Cyrus Omar  
@@ -13,8 +21,6 @@
 - **Where:** Room T9:346, Thákurova 9, Praha 6 (see a [guide](https://help.fit.cvut.cz/rooms/index.html) and a [map](https://help.fit.cvut.cz/rooms/map.html#t9-3))
 - **Who:** Oliver Tušla
 - **Comment:** This paper introduces HazelLab, an extension of the live gradually typed functional programming environment Hazel. It reimagines working with tabular data compared to typical data science workflows: tables are sequences of labeled tuples, with best-effort typing of schema-changing operations (pivots, unstacks, one-hot encodings), live typing (feeding runtime-observed types back into the static checker), and rich probes (editable table views of live values). Read Sections 1–2 for the motivation and tutorial, and Sections 3.3–3.4 for live typing and rich probes, the paper's core ideas; Sections 3.1–3.2 (type-system details) and Section 4 (B2T2 benchmark and 7-participant user study) can be skimmed. Section 5 (related work) and the appendices (references, formal details) can be skipped. Interactive programming systems aid in understanding our programs and data, and this paper explores how to reimagine working with tabular data compared to typical workflows found in data science.
-
-## :books: Past Meetings
 
 ### Wednesday, 23 September 2026, 10:00 (FIT)
 
